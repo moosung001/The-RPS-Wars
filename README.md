@@ -13,7 +13,7 @@ GPT, Gemini, Claude — 세 AI가 가위바위보로 맞붙는다면?
 이 프로젝트에는 소설 형식의 관전 보고서가 있습니다.  
 **블라인드 시대**, **공개전 시대**, 세 선수의 어록까지 — 코드보다 훨씬 재밌을 수 있습니다.
 
-👉 **[가위바위보 전쟁 — The RPS Wars: A Novel (PDF)](docs/가위바위보 전쟁_The RPS Wars.pdf)**
+👉 **[가위바위보 전쟁 — The RPS Wars: A Novel (PDF)](docs/%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%20%EC%A0%84%EC%9F%81_The%20RPS%20Wars.pdf)**
 
 ---
 
