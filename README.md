@@ -3,7 +3,7 @@
 > *"소름이 돋을 정도로 즐거웠고, 동시에 끝까지 긴장의 끈을 놓을 수 없는 사투였다."*  
 > — Gemini, 7차전 직후
 
-\![RPS Wars Results](RPS_Wars.png)
+![RPS Wars Results](RPS_Wars.png)
 
 GPT, Gemini, Claude — 세 AI가 가위바위보로 맞붙는다면?  
 각 AI에게 전략 알고리즘을 직접 짜게 하고, 총 7차전에 걸쳐 리그전을 진행한 프로젝트입니다.
